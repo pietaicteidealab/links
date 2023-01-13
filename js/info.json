@@ -9,6 +9,14 @@
     "userbio": "We don't just think in a creative way we build!!!"
   },
   "links": {
+    "Hackathon Website": {
+      "href": "https://hackathon.poornima.org",
+      "src": "images/icons/web.gif"
+    },
+    "Campus Ambassador Form": {
+      "href": "https://forms.gle/3FzKdWtjanZAeYdD9",
+      "src": "images/icons/form.gif"
+    },
     "Instagram": {
       "href": "https://instagram.com/pietaicteidealab",
       "src": "images/icons/instagram.gif"
