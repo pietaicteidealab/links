@@ -5,47 +5,27 @@
   },
   "userdetails": {
     "userimage": "images/sq.png",
-    "username": "iamkunal9",
-    "userbio": "A coder, Techie, Eth Hacker!!!"
+    "username": "PIET AICTE IDEA LAB",
+    "userbio": "We don't just think in a creative way we build!!!"
   },
   "links": {
     "Instagram": {
-      "href": "https://instagram.com/iamkunal9_",
+      "href": "https://instagram.com/pietaicteidealab",
       "src": "images/icons/instagram.gif"
     },
     "Github": {
-      "href": "https://github.com/iamkunal9",
+      "href": "https://github.com/pietaicteidealab",
       "src": "images/icons/github.gif"
     },
-    "Linkedin": {
-      "href": "https://linkedin.com/in/iamkunal9",
-      "src": "images/icons/linkedin.gif"
-    },
-    "Twitter": {
-      "href": "https://twitter.com/iamkunal9_",
-      "src": "images/icons/twitter.gif"
-    },
-    "SnapChat": {
-      "href": "https://www.snapchat.com/add/kunalsharma0553?share_id=m-2FitLng4E&locale=en-US",
-      "src": "images/icons/snap.gif"
-    },
     "YouTube":{
-      "href": "https://www.youtube.com/@iamkunal9",
+      "href": "https://www.youtube.com/@piet-aicteidealab3370",
       "src": "images/icons/youtube.gif"
     },
-    "Buy Me A Coffee": {
-      "href": "https://www.buymeacoffee.com/iamkunal9",
-      "src": "images/icons/coff.gif"
-    },
-    "Contact Me": {
-      "href": "mailto:kunalsharma0553@gmail.com",
+    "Contact Us": {
+      "href": "mailto:aicte.idealab@poornima.org",
       "src": "images/icons/mail.gif"
     }
   },
   "projects":{
-    "Links":"https://github.com/iamkunal9/links",
-    "TruecallerBOT":"https://appopener.com/web/3d6qh47rb",
-    "Url Shortner":"https://skip.ga",
-    "Aarohan Web":"https://aarohan.poornima.org"
   }
 }
